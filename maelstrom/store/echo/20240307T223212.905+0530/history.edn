@@ -1,0 +1,4 @@
+{:index 0, :time 12542031, :type :invoke, :process 0, :f :echo, :value "Please echo 47"}
+{:index 1, :time 5020780402, :type :info, :process 0, :f :echo, :value "Please echo 47", :error :net-timeout}
+{:index 2, :time 5021055023, :type :invoke, :process 1, :f :echo, :value "Please echo 89"}
+{:index 3, :time 10023182738, :type :info, :process 1, :f :echo, :value "Please echo 89", :error :net-timeout}
